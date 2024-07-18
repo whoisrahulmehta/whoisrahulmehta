@@ -27,11 +27,10 @@ Here are some of the projects I've built and hosted on GitHub Pages:
 5. [Lazy cal](https://whoisrahulmehta.github.io/lazycal/)
 6. [Tazaakhabar](https://whoisrahulmehta.github.io/tazaakhabar/)
 7. [Wordzwizzard](https://whoisrahulmehta.github.io/wordzwizzard/)
-8. [wordzwizz.2.0](https://whoisrahulmehta.github.io/wordzwizz.2.0/)
-9. [taskbook](https://whoisrahulmehta.github.io/taskbook)
-10. [worldweatherwebb](https://whoisrahulmehta.github.io/worldweatherwebb/#/)
-11. [super calculator](https://whoisrahulmehta.github.io/supcalculator/)
-12. [Wordzwizz3.0](https://whoisrahulmehta.github.io/wordzwizz3.0/)
+8. [taskbook](https://whoisrahulmehta.github.io/taskbook)
+9. [worldweatherwebb](https://whoisrahulmehta.github.io/worldweatherwebb/#/)
+10. [super calculator](https://whoisrahulmehta.github.io/supcalculator/)
+11. [Wordzwizz3.0](https://whoisrahulmehta.github.io/wordzwizz3.0/)
 
 ### Vite Projects
 
