@@ -35,8 +35,8 @@ Here are some of the projects I've built and hosted on GitHub Pages:
 
 ### Vite Projects
 
-1.  https://whoisrahulmehta.github.io/ibex/
-2.  Will add here soon
+1.  [IBEX](https://whoisrahulmehta.github.io/ibex/)
+2.  [Palais De L'amour](https://whoisrahulmehta.github.io/thepalace/#/)
 
 ## 📫 How to Reach Me
 
