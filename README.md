@@ -36,6 +36,7 @@ Here are some of the projects I've built and hosted on GitHub Pages:
 
 1.  [IBEX](https://whoisrahulmehta.github.io/ibex/)
 2.  [Palais De L'amour](https://whoisrahulmehta.github.io/thepalace/#/)
+3.  [Bloggy](https://whoisrahulmehta.github.io/bloggy/#/)
 
 ## 📫 How to Reach Me
 
