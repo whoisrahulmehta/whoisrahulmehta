@@ -47,6 +47,7 @@ Here are some of the projects I've built and hosted on GitHub Pages:
 - [GitHub](https://github.com/whoisrahulmehta)
 - [Portfolio](https://whoisrahulmehta.github.io/rahulmehta/)
 - [Email](mehtasofficial@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rahul-mehta-83a29131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Instagram](https://www.instagram.com/whoisrahulmehta?igsh=cTJvZWY1MTE5N2li)
 - [Facebook](https://www.facebook.com/mehta.rahul.rm007?mibextid=JRoKGi)
 - [Twitter](https://x.com/whoisrahulmehta?t=31IvCZW3XTiOqPdsYsQg-g&s=09)
