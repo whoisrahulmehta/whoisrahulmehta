@@ -5,7 +5,10 @@
 
 ## 🚀 About Me
 
-I am a passionate Frontend Developer with a strong foundation in web development technologies. I started my journey with HTML5, CSS, and JavaScript, and later expanded my skills to SASS (SCSS), Tailwind, and Bootstrap. My enthusiasm for modern web development led me to learn React.js, where I have built numerous projects using both Create React App (CRA) and Vite.
+I am a dedicated and adept web developer with a profound mastery of both frontend and backend technologies. My expertise spans a solid foundation in HTML5, CSS, and JavaScript, which has evolved to include sophisticated styling methodologies such as SASS (SCSS), Tailwind, and Bootstrap. Driven by a passion for modern web development, I have achieved a high level of proficiency in React.js, creating intricate and dynamic user interfaces with finesse. I have also completed comprehensive mastery of the MERN stack—MongoDB, Express, React, and Node.js—empowering me to architect and implement high-performance, scalable applications that seamlessly integrate both client-side elegance and server-side robustness.
+
+Journey has just started, have far to go ! 
+
 
 ## 🛠️ Technologies & Tools
 
