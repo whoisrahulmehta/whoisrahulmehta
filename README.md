@@ -5,40 +5,62 @@
 
 ## 🚀 About Me
 
-I am a full-stack web developer specializing in the MERN stack, building scalable, high-performance applications that seamlessly integrate frontend and backend systems. With a solid grounding in HTML5, CSS, and JavaScript + TypeScript, I develop clean, responsive user interfaces using React.js and Next.js, focusing on creating intuitive and engaging user experiences.
+I am a **Full-Stack Web Developer** specializing in the **MERN stack**, building **scalable, high-performance web applications** that connect seamless, intuitive frontends with robust backend systems.
 
-On the backend, I design and implement robust APIs and server architectures using Node.js, Express, and MongoDB, ensuring reliable data handling and application stability. I integrate modern styling frameworks like SASS (SCSS) and Tailwind CSS, while incorporating advanced features, including AI-powered enhancements, to deliver practical and efficient solutions.
+I craft **clean, responsive UIs** using **React.js** and **Next.js**, styled with **Tailwind CSS**, **SCSS**, and modern design tools. On the backend, I develop and maintain **secure, RESTful APIs** with **Node.js**, **Express**, and **MongoDB**, following clear architecture and best practices.
 
-From building and deploying applications to managing servers and domains, I am committed to delivering modern, scalable web solutions that align with evolving user needs and project goals.
+I have **hands-on experience in deploying and hosting** applications using **Vercel, Netlify, and GitHub Pages**, along with **domain and DNS management**, so projects are production-ready and accessible worldwide.
 
-Journey has just started, have far to go ! 
+From **planning and coding to deployment**, I aim to deliver **real-world solutions** with **clean code, performance, and scalability** — while constantly learning and evolving my tech stack.
 
+> **“The journey has just started, and there’s a long way to go 🚀.”**
 
-## 🛠️ Technologies & Tools
+---
 
-- **Languages & Frameworks**: HTML5, CSS3, JavaScript, TypeScript, React.js, SASS (SCSS), Tailwind CSS, Bootstrap, jQuery
-- **Build Tools**: Vite, Create React App (CRA)
-- **Version Control**: Git, GitHub
-- **Hosting**: GitHub Pages
+## 🛠️ Tech Stack
 
-## My Portfolio Website
+### **Languages & Frameworks**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React.js, Next.js (App Router & Server Components)
+- Node.js, Express.js, MongoDB (MERN Stack)
+- SASS (SCSS), Tailwind CSS, Bootstrap
 
-[RahulMehta](https://whoisrahulmehta.github.io/rahulmehta/)
+### **Tools & Libraries**
+- Git & GitHub, VS Code
+- Vite, Create React App, Webpack basics
+- REST APIs, Postman, JWT, bcrypt
+- Framer Motion, Swiper.js, React Icons
+- Mongoose, MongoDB Atlas, Firebase basics
 
-## 🌟 Projects
+### **Deployment & Hosting**
+- Vercel, Netlify, GitHub Pages
+- Domain & DNS management
+- Basic CI/CD & automation
 
-Here are some of the projects I've built and hosted on GitHub Pages:
+---
+
+## 🌟 Featured Projects
+
+Here are some highlights — more on my [GitHub Repos](https://github.com/whoisrahulmehta):
+
+- 🚀 **Next.js Landing Pages** — Responsive, modern, and SEO-friendly.
+- 🗂️ **MERN Stack Templates** — Boilerplates for quick full-stack project setup.
+- 🎨 **Dynamic React Components** — Sliders, galleries, animations with Framer Motion.
+- 📊 **APIs & Dashboards** — Practical backend with Node, Express & MongoDB.
+
+---
 
 ## 📫 How to Reach Me
 
 - [GitHub](https://github.com/whoisrahulmehta)
 - [Portfolio](https://whoisrahulmehta.github.io/rahulmehta/)
-- [Email](mehtasofficial@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/rahul-mehta-811003320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [Instagram](https://www.instagram.com/whoisrahulmehta?igsh=cTJvZWY1MTE5N2li)
-- [Facebook](https://www.facebook.com/mehta.rahul.rm007?mibextid=JRoKGi)
-- [Twitter](https://x.com/whoisrahulmehta?t=31IvCZW3XTiOqPdsYsQg-g&s=09)
+- [LinkedIn](https://www.linkedin.com/in/rahul-mehta-811003320)
+- [Email](mailto:mehtasofficial@gmail.com)
+- [Instagram](https://www.instagram.com/whoisrahulmehta)
+- [Facebook](https://www.facebook.com/mehta.rahul.rm007)
+- [Twitter](https://x.com/whoisrahulmehta)
 
+---
 
 ## 📈 GitHub Stats
 
@@ -48,5 +70,5 @@ Here are some of the projects I've built and hosted on GitHub Pages:
 
 ---
 
-Feel free to explore my repositories and connect with me. I'm always open to collaboration and learning new things!
-
+**Feel free to explore my repositories and connect —  
+I’m always open to collaborating and learning something new!**
