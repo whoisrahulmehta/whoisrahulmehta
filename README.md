@@ -39,17 +39,6 @@ From **planning and coding to deployment**, I aim to deliver **real-world soluti
 
 ---
 
-## 🌟 Featured Projects
-
-Here are some highlights — more on my [GitHub Repos](https://github.com/whoisrahulmehta):
-
-- 🚀 **Next.js Landing Pages** — Responsive, modern, and SEO-friendly.
-- 🗂️ **MERN Stack Templates** — Boilerplates for quick full-stack project setup.
-- 🎨 **Dynamic React Components** — Sliders, galleries, animations with Framer Motion.
-- 📊 **APIs & Dashboards** — Practical backend with Node, Express & MongoDB.
-
----
-
 ## 📫 How to Reach Me
 
 - [GitHub](https://github.com/whoisrahulmehta)
